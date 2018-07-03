@@ -1,0 +1,25 @@
+{
+  "name": "d-cts-js-ft",
+  "version": "0.1.0",
+  "description": "This module may not really work, as it was made by following along with CTS lessons... just use Jordan Hudgen's one, okay?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalaQuest/devcamp-CTS-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Malachi. A. Clemens <malakooku@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KalaQuest/devcamp-CTS-js-footer/issues"
+  },
+  "homepage": "https://github.com/KalaQuest/devcamp-CTS-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
